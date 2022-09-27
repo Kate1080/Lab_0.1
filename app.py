@@ -1,4 +1,4 @@
-class Calculator:
+class Calc:
     @staticmethod
     def add(a: int, b: int) -> int:
         return a + b
